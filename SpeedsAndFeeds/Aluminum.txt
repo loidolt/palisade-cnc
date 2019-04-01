@@ -1,0 +1,7 @@
+Shapeoko 3 Alumium Speeds and Feeds
+
+Spindle Speed = Lowest on Dewalt, around 16000 RPM
+Feedrate = 20 IPM (start at 10-11 IPM and slowly ramp up)
+Depth of Cut = 20 thousands
+
+Flattening cuts should be done from all four directions

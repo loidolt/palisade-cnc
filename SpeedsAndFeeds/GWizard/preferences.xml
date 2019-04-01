@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <windowState width="900" height="825"/>
+  <docWinMaximized>false</docWinMaximized>
+  <screenRes width="3440" height="1440"/>
+  <fontSize>12</fontSize>
+  <appVersion>3.87</appVersion>
+  <createDate>null</createDate>
+  <longTermConnectFails>0</longTermConnectFails>
+  <tbincs/>
+  <tbincsAux/>
+  <logins>0</logins>
+  <saveDate>Fri Sep 15 10:14:14 GMT-0600 2017</saveDate>
+  <loginName>chris@hummingbirdhammocks.com</loginName>
+  <eulaAccepted>Yes</eulaAccepted>
+  <units>Inches</units>
+  <currMachine/>
+  <logo/>
+  <gdtbasics>false</gdtbasics>
+  <materialChoice>0</materialChoice>
+  <materialHardness>-1</materialHardness>
+  <materialSelection/>
+  <ShowAdvanced>false</ShowAdvanced>
+  <deflectPct>100</deflectPct>
+  <updatePref>1</updatePref>
+  <ShowExport>false</ShowExport>
+  <exportBtnLbl>Copy</exportBtnLbl>
+  <exportBtnFileMode>false</exportBtnFileMode>
+  <exportBtnDataFormat>air:tsv</exportBtnDataFormat>
+  <numLogins>2</numLogins>
+  <showTips>true</showTips>
+  <xlo>-0.19228200358796296</xlo>
+  <showedReleaseNotes>false</showedReleaseNotes>
+  <didMecSoftIntegration>false</didMecSoftIntegration>
+  <toolCribField1>Field 1</toolCribField1>
+  <toolCribField2>Field 2</toolCribField2>
+  <toolCribField3>Field 3</toolCribField3>
+  <toolCribField4>Field 4</toolCribField4>
+  <ccwFeedsSpeeds>0</ccwFeedsSpeeds>
+  <ccwWizardTab>0</ccwWizardTab>
+  <ccwEstimatorTab>0</ccwEstimatorTab>
+  <ccwAddEst>0</ccwAddEst>
+  <versionBeingDownloaded>3.95</versionBeingDownloaded>
+  <startWizardRun>false</startWizardRun>
+  <sharingDir>C:\Users\loido\CNCCookbook\</sharingDir>
+  <sharePrefs>false</sharePrefs>
+  <bigSalePop>null</bigSalePop>
+  <upsellPop>null</upsellPop>
+  <crossSellPop>null</crossSellPop>
+  <trialDiscountPop>null</trialDiscountPop>
+  <renewalDiscountPop>null</renewalDiscountPop>
+  <workTime>25</workTime>
+  <shortTime>5</shortTime>
+  <longTime>10</longTime>
+  <showGettingStarted>true</showGettingStarted>
+  <CurrApp>Setup</CurrApp>
+  <setupLocked>false</setupLocked>
+  <MP20Done>false</MP20Done>
+</preferences>

@@ -1,0 +1,16 @@
+number,description,value
+3001,Clock 1 (unit: 1ms),0
+3003,Automatic Operation Control: Single Blk,0
+3004,Automatic Operation Control: Feed Hold,0
+5161,"G28 Home, X",0
+5162,"G28 Home, Y",0
+5163,"G28 Home, Z",0
+5164,"G28 Home, A",0
+5165,"G28 Home, B",0
+5166,"G28 Home, C",0
+5181,"G30 Home, X",0
+5182,"G30 Home, Y",0
+5183,"G30 Home, Z",1
+5184,"G30 Home, A",0
+5185,"G30 Home, B",0
+5186,"G30 Home, C",0

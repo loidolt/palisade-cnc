@@ -1,0 +1,8 @@
+key,tabname,machname,tabledesc,slot,description,serialno,tool,generic,geometry,flutes,leadang,diameter,stickout,cutLength,noseRad,vendor,product,idNo,insNo,sfm,ipt,chipload,useMfgSFM,mfgSFM,useMfgIPT,mfgIPT,xcomp,zcomp,xgeom,zgeom,shankSize,field1,field2,field3,field4,coating,toolmaterial,toolFamily
+8,Default,Shapeoko3 DWP611, ,0,"0.0312"" Flat Endmill",,HSS Endmill,false,Normal,3,90,0.0312,1.25,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.0312,,,,,Uncoated,HSS,Generic
+4,Default,Shapeoko3 DWP611, ,1,"0.125"" Flat Endmill ALTIN Coating",,HSS Endmill,false,Normal,4,90,0.125,1,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.125,,,,,Uncoated,HSS,Generic
+6,Default,Shapeoko3 DWP611, ,2,"0.125"" Flat Endmill",,HSS Endmill,false,Normal,2,90,0.125,1.25,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.125,,,,,Uncoated,HSS,Generic
+7,Default,Shapeoko3 DWP611, ,3,"0.125"" Ball Mill",,HSS Endmill,false,Ballnose,2,90,0.125,1.5,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.125,,,,,Uncoated,HSS,Generic
+5,Default,Shapeoko3 DWP611, ,4,"0.25"" Flat Endmill ALTIN Coated",,HSS Endmill,false,Normal,4,90,0.25,1.5,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.25,,,,,Uncoated,HSS,Generic
+1,Default,Shapeoko3 DWP611, ,5,0.25 Flat Endmill,,HSS Endmill,false,Normal,3,90,0.25,1.25,0.0625,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.0312, , , , ,Uncoated,HSS, 
+3,Default,Shapeoko3 DWP611, ,6,"0.5"" Chamfer Mill",,HSS Endmill,false,Chamfer / Countersink,2,45,0.0001,1.5,0.5,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.125, , , , ,Uncoated,HSS, 
